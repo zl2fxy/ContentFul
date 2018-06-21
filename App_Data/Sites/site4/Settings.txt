@@ -1,0 +1,8 @@
+&756030618 site4:
+  RequestUrlHost: &1902970581 ~
+  RequestUrlPrefix: site4
+  DatabaseProvider: Sqlite
+  TablePrefix: ~
+  ConnectionString: ~
+  State: Uninitialized
+...

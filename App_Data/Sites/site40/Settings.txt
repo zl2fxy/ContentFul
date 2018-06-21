@@ -1,0 +1,8 @@
+&393113561 site40:
+  RequestUrlHost: &1375946408 ~
+  RequestUrlPrefix: site40
+  DatabaseProvider: Sqlite
+  TablePrefix: ~
+  ConnectionString: ~
+  State: Running
+...

@@ -1,0 +1,8 @@
+&2057473182 site65:
+  RequestUrlHost: &888048123 ~
+  RequestUrlPrefix: site65
+  DatabaseProvider: Sqlite
+  TablePrefix: ~
+  ConnectionString: ~
+  State: Running
+...
